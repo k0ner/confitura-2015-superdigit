@@ -1,4 +1,7 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+[![Build Status](https://travis-ci.org/k0ner/confitura-2015-superdigit.svg?branch=master)](https://travis-ci.org/k0ner/confitura-2015-superdigit)
+
 ## Superdigit
 
 We define superdigit of an integer x using the following rules:
